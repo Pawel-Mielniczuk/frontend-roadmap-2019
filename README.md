@@ -20,6 +20,7 @@
     <ul>
       <li><a href="http://cssgridgarden.com/#pl">CSS Grid</a></li>
       <li><a href="https://flexboxfroggy.com/#pl">Flexbox</a></li>
+      <li><a href="https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35">Illustrated flexbox tutorial</a></li>
       <li><a href="https://wesbos.com/courses/">Kursy od WB</a></li>
     </ul>
   </ul>
